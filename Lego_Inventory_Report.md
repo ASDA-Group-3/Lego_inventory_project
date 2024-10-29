@@ -1,5 +1,4 @@
-# **Lego Inventory Creation**
- Report
+# **Lego Inventory Creation Report**
 
 Module: Applied Statistical Data Analysis
 Date: 28.10.2024
@@ -7,11 +6,11 @@ Date: 28.10.2024
 Presented by: 
 
 
-Siddhi Chavan
-Lucrezia Chiappo
-Hassan Riaz 
-Ellaine Savador
-Archana Yelkur
+Siddhi Chavan /
+Lucrezia Chiappo /
+Hassan Riaz /
+Ellaine Savador /
+Archana Yelkur /
 
 
 
@@ -20,10 +19,9 @@ Archana Yelkur
 
 This week's task is a Lego Inventory Project. The following will show how we created an organized system to help manage our collection of bulk Lego pieces. We developed a table (Google Spreadsheet) to keep track of our current and maybe future Lego pieces - find them quickly and know what we have. It’s designed to support any kind of project, from small personal builds to large-scale projects which require specific kinds of Lego pieces. \
  \
-Total number of Lego pieces: 110 \
+Total number of Lego pieces: 110 
 Total number of types of Lego pieces: 11
-
-Number colors: 33 \
+Number colors: 33 
 
 
 

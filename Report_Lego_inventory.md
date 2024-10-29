@@ -1,12 +1,14 @@
+Lego Inventory Project - Report
+
 Table of Content
 
-**1.** **Overview** **2.** **Categories** **3.** **Process**
-
-**4.** **Result** **and** **Conclusion** **References**
+**1.** **Overview** 
+**2.** **Categories** 
+**3.** **Process**
+**4.** **Result** **and** **Conclusion** 
+**References**
 
 > 1.Overview
->
-> 2
 
 This week's task is a Lego Inventory Project. The following will show
 how we created an organized system to help manage our collection of bulk
@@ -53,8 +55,6 @@ Lego pieces. We landed on eight different categories.
 >
 > 5\. Size
 >
-> 3
->
 > The size or dimensions of a Lego Piece are specified by how many studs
 > the Lego piece has. Studs are the round bumps on most Lego pieces.
 > (The size of a Lego piece is not specified if there are no studs on
@@ -83,7 +83,7 @@ Lego pieces. We landed on eight different categories.
 > As the column headline also suggests, here we indicate how many pieces
 > we have that match the description.
 
-3\. Process
+>3. Process
 
 First, we divided all bricks into groups and organized all Lego pieces
 that had the same shape together. Then, we started with one group of
@@ -98,17 +98,9 @@ the shade of color as the background color for each column.
 4\. Result and Conclusion
 
 The development of a detailed inventory database improved the
-organization, making it easier to
-
-manage our bulk Lego pieces. It will make it easier to manage our
-inventory, generate building
-
-plans and hopefully reduce the time spent searching for a specific type
-of Lego piece. Therefore,
-
-> 4
-
-we also added the filter option to each column. In this way, the project
+organization, making it easier to manage our bulk Lego pieces. It will make it easier to manage our
+inventory, generate building plans and hopefully reduce the time spent searching for a specific type
+of Lego piece. Therefore, we also added the filter option to each column. In this way, the project
 and our final result (Google spreadsheet) contributes to a better
 resource optimization. However, we also acknowledge that our spreadsheet
 also has limitations. For instance we couldn’t find every Element-ID for
@@ -119,9 +111,6 @@ this spreadsheet.
 References
 
 <u>https://www.lego.com/de-de/pick-and-build/pick-a-brick</u>
-https://legouniverse.fandom.com/wiki/List_of_Bric<u>k**s**</u>
+<u>https://legouniverse.fandom.com/wiki/List_of_Bric<u>k**s**</u>
+<u>https://docs.google.com/spreadsheets/d/1rFe2ddoyUtCDevAyj3BCOIJzvFLZuWNdcRqeE0b_3qk/edit?usp=sharing</u>
 
-<u>https://docs.google.com/spreadsheets/d/1rFe2ddoyUtCDevAyj3BCOIJzvFLZuWNdcRqeE0b_3qk/e</u>
-<u>dit?usp=sharing</u>
-
-> 5

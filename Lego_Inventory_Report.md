@@ -16,7 +16,7 @@ Archana Yelkur
 
 
 
-1. Overview
+# 1. Overview
 
 This week's task is a Lego Inventory Project. The following will show how we created an organized system to help manage our collection of bulk Lego pieces. We developed a table (Google Spreadsheet) to keep track of our current and maybe future Lego pieces - find them quickly and know what we have. It’s designed to support any kind of project, from small personal builds to large-scale projects which require specific kinds of Lego pieces. \
  \
@@ -28,7 +28,7 @@ Number colors: 33 \
 
 
 
-2. Categories
+# 2. Categories
 
 Before starting with adding content to our inventory list, we needed to decide on what specifications or categories we wanted to classify the Lego pieces. We landed on eight different categories. 
 

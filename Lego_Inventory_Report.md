@@ -1,4 +1,4 @@
- **Lego Inventory Creation**
+# **Lego Inventory Creation**
  Report
 
 Module: Applied Statistical Data Analysis

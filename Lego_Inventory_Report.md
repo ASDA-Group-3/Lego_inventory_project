@@ -21,7 +21,7 @@ This week's task is a Lego Inventory Project. The following will show how we cre
  \
 Total number of Lego pieces: 110 
 Total number of types of Lego pieces: 11
-Number colors: 33 
+Number of colors: 33 
 
 
 

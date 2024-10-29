@@ -1,16 +1,16 @@
  **Lego Inventory Creation**
  Report
 
-Module: Applied Statistical Data Analysis \
-Date: 28.10.2024 \
- \
-Presented by: \
+Module: Applied Statistical Data Analysis
+Date: 28.10.2024
+
+Presented by: 
 
 
 Siddhi Chavan
 Lucrezia Chiappo
-Hassan Riaz \
-Ellaine Savador  \
+Hassan Riaz 
+Ellaine Savador
 Archana Yelkur
 
 

@@ -1,7 +1,5 @@
-# **Lego Inventory Creation**
-
-
-## Report
+ **Lego Inventory Creation**
+ Report
 
 Module: Applied Statistical Data Analysis \
 Date: 28.10.2024 \
@@ -10,18 +8,10 @@ Presented by: \
 
 
 Siddhi Chavan
-
 Lucrezia Chiappo
-
 Hassan Riaz \
 Ellaine Savador  \
 Archana Yelkur
-
-
-# Table of Content
-
-
-[TOC]
 
 
 
@@ -45,36 +35,28 @@ Before starting with adding content to our inventory list, we needed to decide o
 
 
 1. Element-ID
-
-        The Element-ID is a unique identifier assigned to each specific variation of a Lego piece by Lego. It roughly represents the design and its color of the piece.
+The Element-ID is a unique identifier assigned to each specific variation of a Lego piece by Lego. It roughly represents the design and its color of the piece.
 
 2. Design-ID
-
-        The Design-ID refers to the design and shape of a Lego piece regardless of the color.
+The Design-ID refers to the design and shape of a Lego piece regardless of the color.
 
 3. Piece Name
-
-        The piece name is used to describe a Lego piece. The name usually describes the shape (i.e. a brick, slope, rim etc.) and what dimensions it has. The “List of Bricks” from the Lego Universe Fandom Wiki, the Lego website as well as a quick google search helped during the identification of each Lego piece.
+The piece name is used to describe a Lego piece. The name usually describes the shape (i.e. a brick, slope, rim etc.) and what dimensions it has. The “List of Bricks” from the Lego Universe Fandom Wiki, the Lego website as well as a quick google search helped during the identification of each Lego piece.
 
 4. Type
-
-        In the type column we categorized the Lego pieces into higher-level types such as bricks, duplo bricks, plates, roof tiles, tyres, rims and accessories.
+In the type column we categorized the Lego pieces into higher-level types such as bricks, duplo bricks, plates, roof tiles, tyres, rims and accessories.
 
 5. Size
-
-        The size or dimensions of a Lego Piece are specified by how many studs the Lego piece has. Studs are the round bumps on most Lego pieces. (The size of a Lego piece is not specified if there are no studs on the specific piece.)
+The size or dimensions of a Lego Piece are specified by how many studs the Lego piece has. Studs are the round bumps on most Lego pieces. (The size of a Lego piece is not specified if there are no studs on the specific piece.)
 
 6. Category
+By category, we mean functional or thematic grouping such as Basic, Architectural and Transportation.
 
-        By category, we mean functional or thematic grouping such as Basic, Architectural and Transportation.
+8. Color 
+Here, we specify the color of each Lego piece. Since we couldn’t find an official Lego color palette (at first) or match the Lego pieces to exact HexCodes, we decided to name the different types of colors ourselves. Later, we tried to find the closest hex codes we could identify visually. (This approach is only accurate within our system of Lego pieces. New Lego pieces (at least their color) can only be named by referencing other Lego pieces we have already named.) However, later we found the color names Lego uses on their website and tried to match them to our names. Thus, we technically have nine categories. 
 
-7. Color 
-
-        Here, we specify the color of each Lego piece. Since we couldn’t find an official Lego color palette (at first) or match the Lego pieces to exact HexCodes, we decided to name the different types of colors ourselves. Later, we tried to find the closest hex codes we could identify visually. (This approach is only accurate within our system of Lego pieces. New Lego pieces (at least their color) can only be named by referencing other Lego pieces we have already named.) However, later we found the color names Lego uses on their website and tried to match them to our names. Thus, we technically have nine categories. 
-
-8. Quantity
-
-        As the column headline also suggests, here we indicate how many pieces we have that match the description.
+9. Quantity
+As the column headline also suggests, here we indicate how many pieces we have that match the description.
 
 
 
